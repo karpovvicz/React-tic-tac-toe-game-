@@ -18,7 +18,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/your-username/react-tic-tac-toe.git
+git clone https://github.com/karpovvicz/react-tic-tac-toe-game-.git
 Navigate to the Project Directory:
 
 bash
